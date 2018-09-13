@@ -1,7 +1,7 @@
-def (argument)
+def introduction (argument)
 puts  "using the #{argument}"
 end
 
-def (argument,method)
+def introduction (argument,method)
   puts "using the #{argument} to explain a #{method}"
 end
